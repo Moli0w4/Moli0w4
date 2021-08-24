@@ -12,8 +12,8 @@ from BotAmino import *
 import amino
 
 
-email = input("email: ")
-password = input("pass: ")
+email = input("email:@saturnostaff@gmail.com ")
+password = input("pass:saturnostaff ")
 client = BotAmino(email=email,password=password)
 version = "XD"
 print("f bot iniciado = {version}")
@@ -24,7 +24,7 @@ cidy=137707894
 
 adm=[]
 
-admx=["http://aminoapps.com/p/link1"]
+admx=["http://aminoapps.com/u/52005131418911"]
 
 
 for i in admx:
